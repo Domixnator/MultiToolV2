@@ -1,5 +1,7 @@
 # Saját Python Projekt
 
+Multi Tool V2 is made for educational purpose only!
+
 Ha megnyitod tedd taljes ablakba!
 Ez a Python projekt tartalmaz egy `main.py` fájlt és egy `setup` fájlt.
 
@@ -17,3 +19,4 @@ Ez a Python projekt tartalmaz egy `main.py` fájlt és egy `setup` fájlt.
    ```bash
 
    python setup.py
+
