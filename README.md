@@ -1,5 +1,6 @@
 # Saját Python Projekt
 
+Ha megnyitod tedd taljes ablakba!
 Ez a Python projekt tartalmaz egy `main.py` fájlt és egy `setup` fájlt.
 
 ## Fájlok
@@ -14,4 +15,5 @@ Ez a Python projekt tartalmaz egy `main.py` fájlt és egy `setup` fájlt.
 1. Telepítés:
    Ha az `setup` fájl egy Python script, futtasd:
    ```bash
+
    python setup.py
