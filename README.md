@@ -1,19 +1,17 @@
-This MultiToolV2 made for Educational purpose only! 
-
 # Saját Python Projekt
 
-Ez a Python projekt tartalmaz egy `main.py` fájlt és egy `install` fájlt.
+Ez a Python projekt tartalmaz egy `main.py` fájlt és egy `setup` fájlt.
 
 ## Fájlok
 
 - `main.py` – a fő kódfájl, innen indul a program
-- `install.*` – telepítéssel vagy előkészítéssel kapcsolatos fájl
+- `setup.py*` – telepítéssel vagy előkészítéssel kapcsolatos fájl
 - `README.md` – ez a leírás
 - `.gitignore` – fájlok kizárása a verziókezelésből
 
 ## Használat
 
 1. Telepítés:
-   Ha az `install` fájl egy Python script, futtasd:
+   Ha az `setup` fájl egy Python script, futtasd:
    ```bash
-   python install.py
+   python setup.py
