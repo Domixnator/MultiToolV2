@@ -19,7 +19,7 @@ main = """
  ║                                      ║                                    ║                                ║                                   ║
  ╠══ 2. Port scanner                    ╠══ 6. File hash check               ╠══ 10. LAN scanner              ╠══ 14. Admin panel finder          ║
  ║                                      ║                                    ║                                ║                                   ║
- ╠══ 3. Ping test                       ╠══ 7. ARP table                     ╠══ 11. IP tracker               ╠══ 15. XSS tester                    ║
+ ╠══ 3. Ping test                       ╠══ 7. ARP table                     ╠══ 11. IP tracker               ╠══ 15. XSS tester                  ║
  ║                                      ║                                    ║                                ║                                   ║
  ╠══ 4. WHOIS lookup                    ╠══ 8. HTTP header interrogator      ╠══ 12. DNS lookup               ╠══  16. Webhook sender             ║
  ║                                      ║                                    ║                                ║                                   ║
